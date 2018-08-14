@@ -3,7 +3,7 @@ library(httpuv)
 library(readr)
 library(twitteR)
 library(corpora)
-create_token(app = "Aidar_data_polit", "phrwScFwmfyezFoVmd9j5vakI", "yh7f0e12Ys0DBfAyBbZq6XwehtpqdFedbdghL13LErtH5CxJxz",
+create_token(app = "**************", "*******************", "**********************",
              set_renv = TRUE)
 aysin <- get_timeline(user = "ruslanaysin",n = 3200)
 
